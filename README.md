@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Tamil+Thendral+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;AI%2FML+%2B+Cybersecurity+Enthusiast;GATE+2027+Aspirant+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F;Building+real+things%2C+one+commit+at+a+time)](https://github.com/Thendral-07)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Tamil+Thendral+%F0%9F%91%8B;Full-Stack+Developer+%7C+MERN+Stack;AI%2FML+%2B+Cybersecurity+Enthusiast;GATE+2027+Aspirant+%7C+Red+Team+%F0%9F%9B%A1%EF%B8%8F;Building+real+things%2C+one+commit+at+a+time)](https://github.com/Thendral-07)
 
 </div>
 
