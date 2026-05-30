@@ -23,7 +23,6 @@ const tamilThendral = {
                  "MySQL", "Java", "Python", "JavaScript"],
 
   currentlyLearning: [
-    "GATE 2027 — OS, DBMS, DSA, CN, TOC",
     "Cybersecurity — VAPT, Bug Bounty",
   ],
 
